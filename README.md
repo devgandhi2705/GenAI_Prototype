@@ -84,7 +84,6 @@ The notebook `Samvidh_AI_prototype_Gen_AI_Hackathon.ipynb` includes:
 
 ## 👥 Contributors & License
 - Prototype developed during the **Gen AI Hackathon**.
-- Add contributors and set a license (e.g., MIT) before publishing.
 
 ---
 
